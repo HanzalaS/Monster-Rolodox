@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-practics-udemy/static/css/main.d09e5dfd.chunk.css",
-    "main.js": "/react-practics-udemy/static/js/main.72163dac.chunk.js",
-    "main.js.map": "/react-practics-udemy/static/js/main.72163dac.chunk.js.map",
-    "runtime-main.js": "/react-practics-udemy/static/js/runtime-main.6c7b3c6a.js",
-    "runtime-main.js.map": "/react-practics-udemy/static/js/runtime-main.6c7b3c6a.js.map",
-    "static/js/2.e5f7a9ee.chunk.js": "/react-practics-udemy/static/js/2.e5f7a9ee.chunk.js",
-    "static/js/2.e5f7a9ee.chunk.js.map": "/react-practics-udemy/static/js/2.e5f7a9ee.chunk.js.map",
-    "index.html": "/react-practics-udemy/index.html",
-    "precache-manifest.6caab34f8401ab04cfd3f3e4b8b47eda.js": "/react-practics-udemy/precache-manifest.6caab34f8401ab04cfd3f3e4b8b47eda.js",
-    "service-worker.js": "/react-practics-udemy/service-worker.js",
-    "static/css/main.d09e5dfd.chunk.css.map": "/react-practics-udemy/static/css/main.d09e5dfd.chunk.css.map",
-    "static/js/2.e5f7a9ee.chunk.js.LICENSE.txt": "/react-practics-udemy/static/js/2.e5f7a9ee.chunk.js.LICENSE.txt"
+    "main.css": "/Monster-Rolodox/static/css/main.d09e5dfd.chunk.css",
+    "main.js": "/Monster-Rolodox/static/js/main.c41c62c6.chunk.js",
+    "main.js.map": "/Monster-Rolodox/static/js/main.c41c62c6.chunk.js.map",
+    "runtime-main.js": "/Monster-Rolodox/static/js/runtime-main.e43f7626.js",
+    "runtime-main.js.map": "/Monster-Rolodox/static/js/runtime-main.e43f7626.js.map",
+    "static/js/2.e5f7a9ee.chunk.js": "/Monster-Rolodox/static/js/2.e5f7a9ee.chunk.js",
+    "static/js/2.e5f7a9ee.chunk.js.map": "/Monster-Rolodox/static/js/2.e5f7a9ee.chunk.js.map",
+    "index.html": "/Monster-Rolodox/index.html",
+    "precache-manifest.bac4fff2429246016f55acbf66ab1140.js": "/Monster-Rolodox/precache-manifest.bac4fff2429246016f55acbf66ab1140.js",
+    "service-worker.js": "/Monster-Rolodox/service-worker.js",
+    "static/css/main.d09e5dfd.chunk.css.map": "/Monster-Rolodox/static/css/main.d09e5dfd.chunk.css.map",
+    "static/js/2.e5f7a9ee.chunk.js.LICENSE.txt": "/Monster-Rolodox/static/js/2.e5f7a9ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c7b3c6a.js",
+    "static/js/runtime-main.e43f7626.js",
     "static/js/2.e5f7a9ee.chunk.js",
     "static/css/main.d09e5dfd.chunk.css",
-    "static/js/main.72163dac.chunk.js"
+    "static/js/main.c41c62c6.chunk.js"
   ]
 }
